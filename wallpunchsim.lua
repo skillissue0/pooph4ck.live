@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("poopyhub | Wall Punch Simulator", "Ocean")
+local Window = Library.CreateLib("pooph4ck | Wall Punch Simulator", "Ocean")
 
 
 --MAIN TAB--
@@ -69,7 +69,7 @@ end)
 
 --INFORMATION TAB--
 local Information = Window:NewTab("Information")
-local InformationSection = Information:NewSection("poopyhub v0.1")
+local InformationSection = Information:NewSection("pooph4ck v0.1")
 InformationSection:NewLabel("Made by voltou'#1930 and Omega.#7072")
 
 InformationSection:NewButton("Copy Discord Server", "please join :((", function()
