@@ -8,5 +8,5 @@ THE WORLD BEST FUCKIN SEXY SCRIPT
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/skillissue0/pooph4ck.live/main/main.lua"))()
 ```
 
-***discord: skillissue#3064***
+***discord: voltou_***
 
